@@ -35,8 +35,6 @@ Screenshare video:
 
 ![Node](/lib/assets/images/screenshot_appStart.jpg)
 
-![Node](/lib/assets/images/screenshot_appStart.jpg)
-
 ![Node](/lib/assets/images/screenshot_addEmployee.jpg)
 
 ![Node](/lib/assets/images/screenshot_updateEmployeeRole.jpg)

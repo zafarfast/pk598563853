@@ -72,13 +72,11 @@ function getUserInput() {
 
         }
         else if (response.options == "Quit") {
-          console.log("Quit")
-          return 
+          console.log("Press Crtl + C to exit")
         }
 
   
       });
-  console.log("exit")
   }
   
   //Code execution starts here

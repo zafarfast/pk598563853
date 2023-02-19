@@ -7,6 +7,7 @@ Employee Tracker is application that takes user input on a Node.js command line 
 
 #### Prerequisites:
 - Node JS
+- MYSQL server
 
 #### Steps:
 
@@ -14,8 +15,10 @@ Employee Tracker is application that takes user input on a Node.js command line 
 2) Initialize NPM in the cloned directory by typing `npm init`. 
 3) Install Inquirer version 8.2.4 by typing `npm install inquirer@8.2.4`
 4) Install MYSQL module by typing `npm install mysql2`
-5) Run the application by typing `node index.js` in the terminal.
-6) Select the options presented to you on terminal.
+5) Initialize SQL server by typing `mysql -u <username> -p<password>`
+6) Go to .\lib\db directory and run schema.sql and seeds.sql files by typing `source schema.sql` and `source seeds.sql`.
+7) Run the application by typing `node index.js` in the terminal.
+8) Select the options presented to you on terminal.
 
 7) 
 ## Links

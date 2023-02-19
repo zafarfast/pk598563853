@@ -82,7 +82,7 @@ function getUserInput() {
   }
   
   //Code execution starts here
-  //welcomeMsg();
+  welcomeMsg();
   getUserInput();
 
   module.exports = {getUserInput}

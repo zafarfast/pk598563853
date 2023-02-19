@@ -20,6 +20,11 @@ Employee Tracker is application that takes user input on a Node.js command line 
 7) Run the application by typing `node index.js` in the terminal.
 8) Select the options presented to you on terminal.
 
+## Database Schema diagram
+
+![Node](/lib/assets/images/diagram.jpg)
+
+
 ## Links
 Github:
 https://github.com/zafarfast/pk598563853
@@ -27,6 +32,8 @@ https://github.com/zafarfast/pk598563853
 Screenshare video:
 
 ## Screesnhots
+
+![Node](/lib/assets/images/screenshot_appStart.jpg)
 
 ![Node](/lib/assets/images/screenshot_appStart.jpg)
 

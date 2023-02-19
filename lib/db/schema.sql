@@ -8,8 +8,6 @@ CREATE TABLE department (
   dept_name VARCHAR(30) NOT NULL
 );
 
-
-
 CREATE TABLE role1 (
     id INT PRIMARY KEY NOT NULL,
     title VARCHAR(30),
@@ -28,10 +26,6 @@ CREATE TABLE employee (
   manager_id INT,
   FOREIGN KEY (role_id)
   REFERENCES role1(id)
-  ON DELETE SET NULL,
-
-  FOREIGN KEY (manager_id)
-  REFERENCES employee(id)
   ON DELETE SET NULL
 );
 

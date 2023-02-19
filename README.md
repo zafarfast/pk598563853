@@ -29,5 +29,9 @@ Screenshare video:
 
 ## Screesnhots
 
-![Node](/lib/assets/images/node_screenshot1.jpg)
+![Node](/lib/assets/images/screenshot_appStart.jpg)
+
+![Node](/lib/assets/images/screenshot_addEmployee.jpg)
+
+![Node](/lib/assets/images/screenshot_updateEmployeeRole.jpg)
 

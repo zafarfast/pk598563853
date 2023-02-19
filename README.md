@@ -17,8 +17,14 @@ Employee Tracker is application that takes user input on a Node.js command line 
 4) Install MYSQL module by typing `npm install mysql2`
 5) Initialize SQL server by typing `mysql -u <username> -p<password>`
 6) Go to .\lib\db directory and run schema.sql and seeds.sql files by typing `source schema.sql` and `source seeds.sql`.
-7) Run the application by typing `node index.js` in the terminal.
-8) Select the options presented to you on terminal.
+7) Change MySQL username and password in createConnection.js file to match your credentials  in /lib/ folder.
+8) Run the application by typing `node index.js` in the terminal.
+9) Select the options presented to you on terminal.
+
+## Database Schema diagram
+
+![Node](/lib/assets/images/diagram.jpg)
+
 
 ## Links
 Github:
